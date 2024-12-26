@@ -1,0 +1,9 @@
+N = 3
+Hard_join_start = 1
+Hard_join_end = 1
+L	2.0	3.0	3.0	
+A	15.0	20.0	10.0	
+E	1.0	1.0	1.0	
+Sigma	2.0	3.0	1.0	
+rods_forces	3.0	2.0	0.0	
+nodes_forces	0.0	-1.0	3.0	0.0	
